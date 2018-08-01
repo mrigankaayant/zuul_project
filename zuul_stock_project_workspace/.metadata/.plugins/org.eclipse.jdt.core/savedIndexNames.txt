@@ -1,0 +1,21 @@
+INDEX VERSION 1.130+/home/mriganka/projects/spring_zuul_workspace/zuul_stock_project_workspace/.metadata/.plugins/org.eclipse.jdt.core
+833823371.index
+3085526976.index
+2532323701.index
+702901306.index
+990242725.index
+3081875384.index
+1861677361.index
+3204021363.index
+2383720412.index
+2247394102.index
+3075083288.index
+1429263812.index
+349434245.index
+2276705781.index
+3133143019.index
+4081884435.index
+2978556509.index
+3059815070.index
+2642277113.index
+905024569.index

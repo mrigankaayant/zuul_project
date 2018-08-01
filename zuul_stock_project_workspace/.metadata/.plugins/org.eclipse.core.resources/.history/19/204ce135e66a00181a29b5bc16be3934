@@ -1,0 +1,27 @@
+package com.candidateservice.app.service;
+
+import java.util.List;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.candidateservice.app.model.Candidate;
+import com.candidateservice.app.model.User;
+
+@Service
+public class CandidateServiceImpl implements CandidateService{
+
+	@Override
+	public List<Candidate> findcandidateList(User user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+	/*@Autowired
+	private CandidateRepository candidateRepository;
+
+	@Override
+	public List<Candidate> findcandidateList(User user) {
+		return candidateRepository.findcandidateList(users);
+	}*/
+
+}

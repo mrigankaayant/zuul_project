@@ -1,0 +1,5 @@
+package com.candidateservice.app.resource;
+
+public class CandidateServiceResource {
+
+}

@@ -1,0 +1,11 @@
+package com.candidateservice.app.service;
+
+import java.util.List;
+import com.candidateservice.app.model.Candidate;
+import com.candidateservice.app.model.User;
+
+public interface CandidateService {
+	
+	public List<Candidate> findcandidateList(User user);
+
+}

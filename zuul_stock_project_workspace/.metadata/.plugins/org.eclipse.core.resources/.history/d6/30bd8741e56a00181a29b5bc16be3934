@@ -1,0 +1,9 @@
+package com.candidateservice.app.repository;
+
+import java.util.List;
+
+public interface CandidateRepository {
+
+	public List<Candidate> findcandidateList(List<User> users);
+
+}
